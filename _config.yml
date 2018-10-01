@@ -97,7 +97,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "github",
+        title: "GitHub",
         href: "https://github.com/tearstea"
     },
     {
