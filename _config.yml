@@ -1,13 +1,12 @@
 ﻿# Site settings
-title: HL Blog
-SEOTitle: GitTab | 个人博客| 码工的IT日常 |人生感言
-header-img: img/home.jpg
-email: longtolink@163.com
+title: LB Blog
+SEOTitle: ComeTogo | bingo姐个人博客
+email: 453210608@qq.com
 description: "努力是迈向成功的开始!"
-keyword: "hI, 人生感言,IT生活 tearstea的博客, huanglong, 网址大全, 快捷操作, 好看的电影，免费看电影的网站"
-url: "http://tearstea.github.io"          # your host, for absolute URL
+keyword: "LB, 人生感言,bingo姐的博客, LiuBin, 网址大全, 快捷操作, 好看的电影，免费看电影的网站"
+url: "http://bingojie.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/tearstea/tearstea.github.io.git"  # you code repository
+github_repo: "https://github.com/bingojie/bingojie.github.io.git"  # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,9 +63,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: tearstea.github.io    #仓库名称
-  owner: tearstea    #github用户名
-  admin: tearstea
+  repo: bingojie.github.io    #仓库名称
+  owner: bingojie    #github用户名
+  admin: bingojie
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +77,7 @@ gitalk:
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: gittab.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: cometogo.club               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -105,8 +104,8 @@ friends: [
         href: "https://www.jianshu.com/u/72fde39cc440"
     },
     {
-        title: "BinGo",
-        href: "http://cometo.club/"
+        title: "GitTab",
+        href: "http://gittab.cn/"
     },
     #{
     #     title: "Apple Developer",
